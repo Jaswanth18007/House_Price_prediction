@@ -4,9 +4,8 @@ It utilizes a dataset of historical housing data to train a predictive model and
 
 # Features
 Predict house prices based on input features.
-User-friendly web interface for inputting property details.
 Machine learning model trained on historical housing data.
-Customizable model hyperparameters.
+
 
 # Dependencies
 Scikit-Learn: Machine learning library for building and using the prediction model.
